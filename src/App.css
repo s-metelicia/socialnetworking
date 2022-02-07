@@ -72,7 +72,7 @@ a:link {
   }
 .sidebar {
   grid-area: nav;
-  background-color: #f2f2f2;
+  background-color: #bf9090;
 }
 .content {
   grid-area: content;
